@@ -44,7 +44,7 @@ function showModal(imageUrl, text) {
 }
 
 const modalMessageList = [
-    { number: 1, message: "올 한해 함께 일하는 동안 즐거웠어요. 즐거운 성탄절 되세요!" },
+    { number: 1, message: "올 한해 함께 일하는 동안 즐거웠어요. 즐거운 성탄절 보내세요!" },
     { number: 2, message: "즐거운 연말연시 보내세요! 모든 크리스마스 소원이 이루어지길 바라요." },
     { number: 3, message: "즐거운 크리스마스 보내고 새해 복 많이 받으세요!" },
     { number: 4, message: "사랑과 기쁨이 가득한 크리스마스 되길 바라요. 메리 크리스마스!" },
